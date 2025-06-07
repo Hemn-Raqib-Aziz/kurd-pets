@@ -138,7 +138,6 @@ For more info or opportunities to collaborate:
 
 **Author**: Hemn raqib  
 **Email**: hemnraqeeb02@gmail.com  
-**Location**: Iraq, Erbil
 
 ---
 
