@@ -122,13 +122,6 @@ can manage content, orders, and tasks via a secure dashboard.
 - Expand payment methods.
 - Push notifications.
 
----
-
-## 🙌 Acknowledgements
-
-- Iraqi E-Commerce Guidelines
-- FIB Developer Documentation
-- Open Source Libraries used in `package.json`
 
 ---
 
@@ -142,8 +135,3 @@ For more info or opportunities to collaborate:
 ---
 
 ⭐ If you like the idea, feel free to star the repo and share feedback!
-
-✅ What Else to Include in the Repo (besides README)
-📁 screenshots/ folder with all page and component screenshots.
-
-README.md (the file above).
