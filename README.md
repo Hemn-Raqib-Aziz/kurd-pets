@@ -52,7 +52,7 @@ can manage content, orders, and tasks via a secure dashboard.
 ## 🎯 Project Overview
 
 ### 🏠 Public Website Pages
-- **Main Page**: Navbar, Hero Section, Featured Collections, Blogs, Products, Brands, Footer.
+-  [**Home Page**](./01-homepage.md): Navbar, Hero Section, Featured Collections, Blogs, Products, Brands, Footer.
 - **Blogs**: Viewable by anyone. Logged-in users can like, save blogs.
 - **Products**:
   - Customers can view, filter, and save products to cart panel.
