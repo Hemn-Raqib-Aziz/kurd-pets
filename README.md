@@ -1,6 +1,10 @@
 ### 🐾 Kurd Pets – Online Animal Marketplace (Final Year Project)
 
 ![Project Screenshots](available in the kurd-pets repository)
+## 📁 Project Sections and Screenshots
+
+- [Home Page](/1%20Homepage.md)
+
 
 **Kurd Pets** is a full-stack, role-based online animal and pet-related product platform built as my final year graduation project. 
 The platform enables customers to browse, filter, pre-order, and purchase pet-related products, while admins and super admins 
