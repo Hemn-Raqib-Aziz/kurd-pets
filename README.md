@@ -2,7 +2,7 @@
 
 
 ## 📁 Project Sections and Screenshots
-! Project Screenshots (available in the kurd-pets repository)
+! [Project Screenshots (available in the kurd-pets repository)](https://github.com/Hemn-Raqib-Aziz/kurd-pets)]
 - [Home Page](./01-homepage.md)
 - [Registration](./02-registration.md)
 - [Admin Dashboard](./03-admin-dashboard.md)
