@@ -3,16 +3,18 @@
 
 ## 📁 Project Sections and Screenshots
 ![Project Screenshots](available in the kurd-pets repository)
-- [Home Page](/1%20Homepage.md)
-- [Cart Section](/8%20cart-panel.md)
-- [Checkout Section](/9%20checkout.md)
-- [Payment Section](/10%20payment.md)
-- [Admin Dashboard](/7%20Admin%20Dashboard.md)
-- [Notification](/11%20notification.md)
-- [Blogs Page](/3%20Blogs%20page.md)
-- [Products Page](/4%20Products%20page.md)
-- [Contact Page](/5%20contact-page.md)
-- [Registration](/6%20registration.md)
+- [Home Page](./01-homepage.md)
+- [Cart Section](./06-cart-panel.md)
+- [Checkout Section](./07-checkout.md)
+- [Payment Section](./08-payment.md)
+- [Admin Dashboard](./03-admin-dashboard.md)
+- [Notification](./09-notification.md)
+- [Blogs Page](./04-blogs-page.md)
+- [Products Page](./05-products-page.md)
+- [Contact Page](./10-contact-page.md)
+- [Registration](./02-registration.md)
+- [About Us](./11-about-us.md)
+
 
 
 
