@@ -1,8 +1,8 @@
 ### 🐾 Kurd Pets – Online Animal Marketplace (Final Year Project)
 
-![Project Screenshots](available in the kurd-pets repository)
-## 📁 Project Sections and Screenshots
 
+## 📁 Project Sections and Screenshots
+![Project Screenshots](available in the kurd-pets repository)
 - [Home Page](/1%20Homepage.md)
 - [Cart Section](/8%20cart-panel.md)
 - [Checkout Section](/9%20checkout.md)
