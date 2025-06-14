@@ -14,6 +14,7 @@
 
 
 ### full-Height Home-Page image
-![localhost_5173_](https://github.com/user-attachments/assets/851170a6-4118-43fd-9cdb-a5a9365f2421)
+![localhost_5173_ (1)](https://github.com/user-attachments/assets/f477f976-b456-400b-9d42-4440c58c49cd)
+
 
 
