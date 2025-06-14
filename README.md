@@ -52,18 +52,18 @@ can manage content, orders, and tasks via a secure dashboard.
 ## 🎯 Project Overview
 
 ### 🏠 Public Website Pages
--  **[Home Page](./01-homepage.md)**: Navbar, Hero Section, Featured Collections, Blogs, Products, Brands, Footer.
-- **Blogs**: Viewable by anyone. Logged-in users can like, save blogs.
-- **Products**:
+- [Home Page](./01-homepage.md): Navbar, Hero Section, Featured Collections, Blogs, Products, Brands, Footer.
+- [Blogs](./04-blogs-page.md): Viewable by anyone. Logged-in users can like, save blogs.
+- [Products](./05-products-page.md):
   - Customers can view, filter, and save products to cart panel.
   - If a product is out of stock, users can pre-order — only logged in users.
   - After login, the system handles and stores previous guest saved products under their account.
-- **Cart Panel**: View saved or pre-ordered products.
+- [Cart Panel](./06-cart-panel.md): View saved or pre-ordered products.
   - Select quantities, apply promo codes, see real-time order summary.
   - Static shipping cost (10,000 IQD), with free shipping over 60,000 IQD.
-- **Checkout Flow**:
+- [Checkout Flow](./07-checkout.md):
   1. **Shipping Info**: Auto-filled for logged-in users(non-loggedin users can access to cart-modal till they login).
-  2. **Payment Method**:
+  2. [Payment Methods](./08-payment.md):
      - **Cash on Delivery**
      - **FIB (First Iraqi Bank)** – pay via:
        - QR Code (scan with phone)
@@ -71,7 +71,7 @@ can manage content, orders, and tasks via a secure dashboard.
        - Redirect to FIB mobile app (only works on mobile browser)
      - 15-minute timer to complete payment, else cancelled.
   3. **Review Step**: Confirm all info.
-- **Contact Page**:
+- [Contact Page](./10-contact-page.md):
   - Guest users: Email, Name, Subject, Message.
   - Logged-in users: Just Subject & Message.
 
@@ -87,7 +87,7 @@ can manage content, orders, and tasks via a secure dashboard.
 
 ---
 
-## 🛠️ Admin Dashboard
+## 🛠️ [Admin Dashboard](./03-admin-dashboard.md)
 
 ### 🎩 Super Admin Features
 - Access to all sections.
@@ -105,7 +105,7 @@ can manage content, orders, and tasks via a secure dashboard.
 
 ---
 
-## 📦 Orders & Notifications
+## 📦 [Orders](./03-admin-dashboard.md) & [Notification](./09-notification.md)
 
 - **Order Flow**:
   - Order status updated by admins (Processing → Shipped → Completed).
